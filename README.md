@@ -3,7 +3,7 @@
 <img src="https://avatars.githubusercontent.com/u/229118224?v=4"
      width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 4px solid #000; margin-top: -75px;" alt="Profile Avatar" />
 
-# Hi 👋, I'm [Your Name]
+# Hi 👋, I'm [Anish shaikh]
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+BCA;Passionate+About+Modern+Web+Apps;Clean+Code+%7C+Responsive+UI+%7C+Reliable+Backends;Open+to+Full+Stack+Opportunities" alt="Typing SVG" />
