@@ -1,99 +1,128 @@
-<div align="center">
+# 👋 Hi, I'm Anish Shaikh
 
-<img src="https://avatars.githubusercontent.com/u/229118224?v=4"
-     width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 4px solid #000; margin-top: -75px;" alt="Profile Avatar" />
+### 💻 Full Stack Developer | BCA Student
 
-# Hi 👋, I'm Anish shaikh
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Building+Modern+Web+Experiences;Learning+%7C+Building+%7C+Improving;Aspiring+Full+Stack+Developer" alt="Typing SVG" />
+</p>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+BCA;Passionate+About+Modern+Web+Apps;Clean+Code+%7C+Responsive+UI+%7C+Reliable+Backends;Open+to+Full+Stack+Opportunities" alt="Typing SVG" />
-</a>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/229118224?v=4" width="145" alt="Anish Shaikh's GitHub Avatar" />
+</p>
 
-<br/><br/>
-
-![Location](https://img.shields.io/badge/📍_Location-India-black?style=for-the-badge)
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge" alt="Portfolio" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/anishshaikh1412">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-India-16A085?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location India" />
+</p>
 
 ---
 
-### About Me
+## 🧑‍💻 About Me
 
-- 🎓 BCA student with a strong focus on software development
-- 💻 Full Stack Developer passionate about designing, developing, and maintaining modern web applications
-- 🎯 Focused on *clean code, **responsive interfaces, and **reliable backend systems*
-- 🌱 Continuously learning and building practical projects
-- 🤝 Open to collaboration and Full Stack Developer opportunities
-- ⚡ Fun fact: I believe great software is built with consistency, not shortcuts
+I'm a BCA student passionate about web development and building modern, responsive, and user-friendly applications.
 
----
+- 🎓 Studying Computer Applications
+- 🌐 Interested in Full Stack Web Development
+- ⚛️ Exploring React and modern frontend technologies
+- 🛠️ Improving my backend and database development skills
+- 📚 Learning through practical projects and experimentation
+- 🤝 Open to collaboration, learning, and developer opportunities
 
-### Tech Stack
-
-*Languages*
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-*Frontend*
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-*Backend*
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-*Database*
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-*API Development*
-
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-
-*Tools*
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+> 💡 My goal is to turn ideas into useful, well-designed digital experiences.
 
 ---
 
-### Core Concepts
+## ⚡ Tech Stack
 
-- Object-Oriented Programming (OOP)
-- Data Structures
-- Problem-Solving
-- Debugging
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" alt="Frontend Technologies" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Technologies" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database Technologies" />
+</p>
+
+### 🧰 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development Tools" />
+</p>
 
 ---
 
-### Professional Interests
+## 📊 GitHub Analytics
 
-- Full Stack Web Development
-- Backend Development
-- Database Design
-- API Integration
-- Software Engineering Best Practices
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anishshaikh1412&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishshaikh1412&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anishshaikh1412&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
 
 ---
 
-<div align="center">
+## 🚀 Featured Projects
 
-*Continuously learning and building practical projects to develop reliable, maintainable, and user-focused software solutions.*
+Here are some of the projects I work on while improving my development skills.
 
-*Open to collaboration and Full Stack Developer opportunities.*
+<!-- Replace the example links below with your best repositories. -->
 
-</div>
+- 🌐 **Web Development Projects** — Responsive websites using HTML, CSS, JavaScript, and Bootstrap.
+- ⚛️ **React Projects** — Interactive user interfaces and reusable components.
+- 💻 **Full Stack Projects** — Practical applications combining frontend, backend, and databases.
+
+<p align="center">
+  <a href="https://github.com/anishshaikh1412?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_My_Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore Repositories" />
+  </a>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Strengthening JavaScript and React fundamentals
+- Building responsive and accessible interfaces
+- Learning backend development and API integration
+- Improving database design and problem-solving
+- Creating projects that demonstrate practical skills
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, learning new technologies, and exploring opportunities to grow.
+
+<p align="center">
+  <a href="https://github.com/anishshaikh1412">
+    <img src="https://img.shields.io/badge/Follow_Me_on_GitHub-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <i>“Learn consistently. Build passionately. Improve every day.”</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anishshaikh1412&style=for-the-badge&color=00D9FF" alt="Profile Views" />
+</p>
