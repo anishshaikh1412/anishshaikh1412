@@ -1,96 +1,75 @@
-# 👋 Hi, I'm Anish Shaikh
+# ✨ Anish Shaikh ✨
 
-### 💻 Full Stack Developer | BCA Student
+`Full Stack Developer | Web Development • React.js • JavaScript`
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Building+Modern+Web+Experiences;Learning+%7C+Building+%7C+Improving;Aspiring+Full+Stack+Developer" alt="Typing SVG" />
+I'm a BCA student passionate about building modern, responsive, and user-friendly web applications. I enjoy turning ideas into practical digital experiences and continuously improving my skills in frontend development, backend technologies, and database management.
+
+📍 India | 💻 Web Development | 🚀 Always Learning
+
+---
+
+## 👨‍💻 About Me
+
+I'm focused on developing clean, maintainable, and responsive web applications while strengthening my software development fundamentals.
+
+- 🌐 Building responsive web interfaces
+- ⚛️ Learning and developing with React.js
+- 🛠️ Exploring Node.js and backend development
+- 🗄️ Practicing database management with MySQL and MongoDB
+- 🔌 Learning API integration and application architecture
+- 📚 Improving problem-solving and coding skills
+- 🤝 Open to collaboration and development opportunities
+
+---
+
+## 🛠️ Languages & Tools
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML, CSS, JavaScript and TypeScript" />
 </p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/229118224?v=4" width="145" alt="Anish Shaikh's GitHub Avatar" />
+**Frontend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap" alt="React and Bootstrap" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/anishshaikh1412">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-India-16A085?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location India" />
+**Backend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express.js" />
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL and MongoDB" />
+</p>
+
+**Development Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Git, GitHub, VS Code and Postman" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 Projects
 
-I'm a BCA student passionate about web development and building modern, responsive, and user-friendly applications.
+### 🌦️ Weather Application
+A web application that displays current weather information for selected cities.
 
-- 🎓 Studying Computer Applications
-- 🌐 Interested in Full Stack Web Development
-- ⚛️ Exploring React and modern frontend technologies
-- 🛠️ Improving my backend and database development skills
-- 📚 Learning through practical projects and experimentation
-- 🤝 Open to collaboration, learning, and developer opportunities
+### 🛍️ Being Human – Fashion Website
+A fashion e-commerce website project featuring product categories, a shopping cart, and user authentication.
 
-> 💡 My goal is to turn ideas into useful, well-designed digital experiences.
-
----
-
-## ⚡ Tech Stack
-
-### 🎨 Frontend Development
+### 💻 TypeScript Practice
+A collection of coding exercises to practice TypeScript fundamentals.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" alt="Frontend Technologies" />
-</p>
-
-### ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Technologies" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database Technologies" />
-</p>
-
-### 🧰 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development Tools" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anishshaikh1412&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishshaikh1412&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anishshaikh1412&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-Here are some of the projects I work on while improving my development skills.
-
-<!-- Replace the example links below with your best repositories. -->
-
-- 🌐 **Web Development Projects** — Responsive websites using HTML, CSS, JavaScript, and Bootstrap.
-- ⚛️ **React Projects** — Interactive user interfaces and reusable components.
-- 💻 **Full Stack Projects** — Practical applications combining frontend, backend, and databases.
-
-<p align="center">
   <a href="https://github.com/anishshaikh1412?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_My_Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore Repositories" />
+    <img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github" alt="Explore my GitHub projects" />
   </a>
 </p>
 
@@ -98,31 +77,30 @@ Here are some of the projects I work on while improving my development skills.
 
 ## 🎯 Current Focus
 
-- Strengthening JavaScript and React fundamentals
-- Building responsive and accessible interfaces
-- Learning backend development and API integration
-- Improving database design and problem-solving
-- Creating projects that demonstrate practical skills
+- Strengthening JavaScript and React.js
+- Building practical web development projects
+- Learning backend development and REST APIs
+- Improving database and debugging skills
+- Writing clean and maintainable code
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
-I'm always interested in connecting with developers, learning new technologies, and exploring opportunities to grow.
-
-<p align="center">
+<p>
   <a href="https://github.com/anishshaikh1412">
-    <img src="https://img.shields.io/badge/Follow_Me_on_GitHub-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  <a href="https://www.linkedin.com/in/anish-shaikh-46a96a372/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:anishshaikh1412@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<p align="center">
-  <i>“Learn consistently. Build passionately. Improve every day.”</i>
-</p>
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anishshaikh1412&style=for-the-badge&color=00D9FF" alt="Profile Views" />
+  <i>Learning every day. Building with purpose. Growing through code.</i>
 </p>
